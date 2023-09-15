@@ -2,7 +2,7 @@
 layout: blog
 title: Blog - Teste
 description: Entrada de teste
-date: '2023-09-15T11:40:51-03:00'
+pubDate: '2023-09-15T11:40:51-03:00'
 heroImage: /assets/blog-placeholder-1.jpg
 rating: '5'
 ---
