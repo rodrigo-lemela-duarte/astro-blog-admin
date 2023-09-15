@@ -2,7 +2,7 @@
 title: teste
 description: teste
 pubDate: '2023-09-15T13:10:06-03:00'
-heroImage: /assets/blog-placeholder-about.jpg
+heroImage: /blog-placeholder-about.jpg
 ---
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
 ## Headings
